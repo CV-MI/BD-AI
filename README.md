@@ -2,7 +2,7 @@
 
 **Publications**
 
-Top 1% Publications: 
+**Top 1% Publications:**
 1.	Ganapathi, Iyyakutti Iyappan, Fayaz Ali Dharejo, Sajid Javed, Syed Sadaf Ali, and Naoufel Werghi. "Unsupervised Dual Transformer Learning for 3-D Textured Surface Segmentation." IEEE Transactions on Neural Networks and Learning Systems (2024). (IF: 10.4, Q1, 99%) (github link ). 
 2.	Alansari, Mohamad, Oussama Abdul Hay, Sara Alansari, Sajid Javed, Abdulhadi Shoufan, Yahya Zweiri, and Naoufel Werghi. "Drone-Person Tracking in Uniform Appearance Crowd: A New Dataset." Scientific Data 11, no. 1 (2024): 15. (IF: 9.8, Q1, 99%). 
 3.	Dharejo, Fayaz Ali, Iyyakutti Iyappan Ganapathi, Muhammad Zawish, Basit Alawode, Moath Alathbah, Naoufel Werghi, and Sajid Javed. "SwinWave-SR: Multi-scale lightweight underwater image super-resolution." Information Fusion 103 (2024): 102127. (IF: 18.6, Q1, 99%). 
@@ -21,7 +21,7 @@ Top 10% Publications:
 6.	Bhati, Amit, Neha Gour, Pritee Khanna, Aparajita Ojha, and Naoufel Werghi. "An interpretable dual attention network for diabetic retinopathy grading: IDANet." Artificial Intelligence in Medicine 149 (2024): 102782. (IF:  7.5, Q1, 96%). 
 7.	Ganapathi, Iyyakutti Iyappan, Syed Sadaf Ali, Surya Prakash, Sambit Bakshi, and Naoufel Werghi. "B3D-EAR: Binarized 3D descriptors for ear-based human recognition." Expert Systems with Applications (2024): 123580. (IF: 8.5, Q1, 96%)
 8.	Alansari, Mohamad, Abdelfatah Ahmed, Khaled Alnuaimi, Divya Velayudhan, Taimur Hassan, Sajid Javed, Mohammed Bennamoun, and Naoufel Werghi. "Multi-Scale Hierarchical Contour Framework for Detecting Cluttered Threats in Baggage Security." IEEE Access (2024) (IF: 3.9, Q 1, 92%). 
-Q1 Publications:
+**Q1 Publications:**
 1.	Ganapathi, Iyyakutti Iyappan, Fayaz Ali Dharejo, Sajid Javed, Syed Sadaf Ali, and Naoufel Werghi. "Unsupervised Dual Transformer Learning for 3-D Textured Surface Segmentation." IEEE Transactions on Neural Networks and Learning Systems (2024). (IF: 10.4, Q1, 99%). 
 2.	Alansari, Mohamad, Oussama Abdul Hay, Sara Alansari, Sajid Javed, Abdulhadi Shoufan, Yahya Zweiri, and Naoufel Werghi. "Drone-Person Tracking in Uniform Appearance Crowd: A New Dataset." Scientific Data 11, no. 1 (2024): 15. (IF: 9.8, Q1, 99%). 
 3.	Dharejo, Fayaz Ali, Iyyakutti Iyappan Ganapathi, Muhammad Zawish, Basit Alawode, Moath Alathbah, Naoufel Werghi, and Sajid Javed. "SwinWave-SR: Multi-scale lightweight underwater image super-resolution." Information Fusion 103 (2024): 102127. (IF: 18.6, Q1, 99%). 
@@ -42,7 +42,7 @@ Q1 Publications:
 18.	Bojesomo, Alabi, Panos Liatsis, and Hasan Al Marzouqi. "Deep Hypercomplex Networks for Spatiotemporal Data Processing: Parameter efficiency and superior performance [Hypercomplex Signal and Image Processing]." IEEE Signal Processing Magazine 41.3 (2024): 101-112 [IF: 9.4, Q1, 99%].
 19.	Hossain, Sanoar, Saiyed Umer, Ranjeet Kumar Rout, and Hasan Al Marzouqi. "A Deep Quantum Convolutional Neural Network Based Facial Expression Recognition For Mental Health Analysis." IEEE Transactions on Neural Systems and Rehabilitation Engineering (2024) [IF: 4.8, Q1, 86%].
 
-**Preprints: **
+**Preprints:**
 1.	Fahmy, Israa, Taimur Hassan, Irfan Hussain, Lakmal Seneviratne, and Naoufel Werghi. "Vision-Based Tactile Sensors in Precision Agriculture: Deep Learning Approaches, Applications, and Limitations." (2024). Preprint
 
 **Conferences and Book Chapters:**
