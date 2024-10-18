@@ -1,6 +1,6 @@
 # Big Data and Artificial Intelligence Pipeline
 
-**Publications
+**Publications**
 
 Top 1% Publications: 
 1.	Ganapathi, Iyyakutti Iyappan, Fayaz Ali Dharejo, Sajid Javed, Syed Sadaf Ali, and Naoufel Werghi. "Unsupervised Dual Transformer Learning for 3-D Textured Surface Segmentation." IEEE Transactions on Neural Networks and Learning Systems (2024). (IF: 10.4, Q1, 99%) (github link ). 
@@ -42,10 +42,10 @@ Q1 Publications:
 18.	Bojesomo, Alabi, Panos Liatsis, and Hasan Al Marzouqi. "Deep Hypercomplex Networks for Spatiotemporal Data Processing: Parameter efficiency and superior performance [Hypercomplex Signal and Image Processing]." IEEE Signal Processing Magazine 41.3 (2024): 101-112 [IF: 9.4, Q1, 99%].
 19.	Hossain, Sanoar, Saiyed Umer, Ranjeet Kumar Rout, and Hasan Al Marzouqi. "A Deep Quantum Convolutional Neural Network Based Facial Expression Recognition For Mental Health Analysis." IEEE Transactions on Neural Systems and Rehabilitation Engineering (2024) [IF: 4.8, Q1, 86%].
 
-Preprints: 
+**Preprints: **
 1.	Fahmy, Israa, Taimur Hassan, Irfan Hussain, Lakmal Seneviratne, and Naoufel Werghi. "Vision-Based Tactile Sensors in Precision Agriculture: Deep Learning Approaches, Applications, and Limitations." (2024). Preprint
 
-Conferences and Book Chapters:
+**Conferences and Book Chapters:**
 1.	Ismail A. Shittu and Ibrahim (Abe) M. Elfadel " A Novel Equivalent Circuit Model for the Design and Analysis of Square-Loop Metamaterials." In 2024 photonics and electromagnetics research symposium (PIERS), 2024. 
 2.	Alansari, Mohamad, Hamad Alremeithi, Bilal Hassan, Sara Alansari, Jorge Dias, Majid Khonji, Naoufel Werghi, and Sajid Javed. "Vision-Perceptual Transformer Network for Semantic Scene Understanding." In Proceedings of the International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications, vol. 3, pp. 325-332. 2024.
 3.	Sajid Javed, Arif Mahmood, Iyyakutti Iyappan Ganapathi, Fayaz Ali Dharejo, Naoufel Werghi, Mohammed Bennamoun, "CPLIP: Zero-Shot Learning for Histopathology with Comprehensive Vision-Language Alignment", CVPR, 2023. (A* conference)
