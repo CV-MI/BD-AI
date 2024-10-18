@@ -1,10 +1,6 @@
 # Big Data and Artificial Intelligence Pipeline
-<!DOCTYPE html>
-<html>
-<head>
-    <title> Publications </title>
-</head>
-Publications
+
+**Publications
 
 Top 1% Publications: 
 1.	Ganapathi, Iyyakutti Iyappan, Fayaz Ali Dharejo, Sajid Javed, Syed Sadaf Ali, and Naoufel Werghi. "Unsupervised Dual Transformer Learning for 3-D Textured Surface Segmentation." IEEE Transactions on Neural Networks and Learning Systems (2024). (IF: 10.4, Q1, 99%) (github link ). 
